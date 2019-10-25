@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ioPhone</string>
+    <string name="phone_name">Nama Hp</string>
+    <string name="detail">Detail</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="favorite">Favorite</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="chipset">Chipset</string>
+    <string name="ram">RAM</string>
+    <string name="fitur">Fitur</string>
+    <string name="battery">Battery</string>
+</resources>
